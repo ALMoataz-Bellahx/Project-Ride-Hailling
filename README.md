@@ -1,4 +1,4 @@
-# Project-Ride-Hailling
+# Project-Ride-Sharing
 🚖 Ride-Sharing Analytics Dashboard – Power BI
 This Power BI project provides insights into ride-sharing performance, covering key metrics like ride volume, revenue, success rate, and customer satisfaction.
 
