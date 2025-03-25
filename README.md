@@ -19,5 +19,3 @@ Customer Experience: Improve ratings and completion rates.
 Revenue Insights: Identify peak days and revenue trends.
 
 📌 Tech Stack: Power BI, Data Modeling, DAX
-
-Let me know if you need refinements! 🚀
